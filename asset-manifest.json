@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-first-react-js-website-with-hero-section/static/css/main.ebf405a3.css",
-    "main.js": "/my-first-react-js-website-with-hero-section/static/js/main.bc9e3854.js",
+    "main.css": "/my-first-react-js-website-with-hero-section/static/css/main.13f5d189.css",
+    "main.js": "/my-first-react-js-website-with-hero-section/static/js/main.85ca62c0.js",
     "static/media/video-2.mp4": "/my-first-react-js-website-with-hero-section/static/media/video-2.39e6c79bffb375ae929a.mp4",
     "static/media/img-2.jpg": "/my-first-react-js-website-with-hero-section/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/my-first-react-js-website-with-hero-section/static/media/img-4.a31875b76d39f6458a6e.jpg",
@@ -14,11 +14,11 @@
     "static/media/img-9.jpg": "/my-first-react-js-website-with-hero-section/static/media/img-9.f97f588f3670715d01b2.jpg",
     "static/media/img-8.jpg": "/my-first-react-js-website-with-hero-section/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/my-first-react-js-website-with-hero-section/index.html",
-    "main.ebf405a3.css.map": "/my-first-react-js-website-with-hero-section/static/css/main.ebf405a3.css.map",
-    "main.bc9e3854.js.map": "/my-first-react-js-website-with-hero-section/static/js/main.bc9e3854.js.map"
+    "main.13f5d189.css.map": "/my-first-react-js-website-with-hero-section/static/css/main.13f5d189.css.map",
+    "main.85ca62c0.js.map": "/my-first-react-js-website-with-hero-section/static/js/main.85ca62c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebf405a3.css",
-    "static/js/main.bc9e3854.js"
+    "static/css/main.13f5d189.css",
+    "static/js/main.85ca62c0.js"
   ]
 }
