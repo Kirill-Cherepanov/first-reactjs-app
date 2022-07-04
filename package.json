@@ -2,7 +2,7 @@
   "name": "my-first-react-project-with-hero-section",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KissMyUSSR.github.io",
+  "homepage": "https://KissMyUSSR.github.io/my-first-react-js-website-with-hero-section",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",

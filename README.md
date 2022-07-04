@@ -4,4 +4,4 @@ Also this is the first project where I implement hero section. Although it has s
 
 Beside that the website itself is very simple having only 2 sections, header and footer. That's why I made it without breaking it into commits.
 
-Here it is deployed: [https://facebook.github.io/create-react-app/docs/getting-started].
+Here it is deployed: https://kissmyussr.github.io/my-first-react-js-website-with-hero-section/.
