@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import HomePage from './components/pages/Home';
 import Services from './components/pages/Services';
@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <NavBar />
       <Routes>
         <Route path="/" element={<HomePage />} exact />
@@ -19,6 +19,6 @@ export default function App() {
         <Route path="/sign-up/" element={<SignUp />} exact />
       </Routes>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
